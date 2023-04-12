@@ -1,1 +1,1 @@
-Simple messaging client made using SignalR.
+Simple messaging server made using SignalR.
